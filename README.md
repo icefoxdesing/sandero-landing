@@ -2,9 +2,9 @@
 
 Landing page estática para la venta particular de un Renault Sandero Expresión 2019 con 85.000 km, papeles al día, ubicado en Patagonia (Argentina).
 
-**🌐 En vivo:** [https://TU-USUARIO.github.io/sandero-landing/](https://TU-USUARIO.github.io/sandero-landing/)
+**🌐 En vivo:** [https://icefoxdesing.github.io/sandero-landing/](https://icefoxdesing.github.io/sandero-landing/)
 
-> Reemplazá `TU-USUARIO` por tu username de GitHub una vez que actives Pages.
+
 
 ---
 
